@@ -219,7 +219,7 @@
     </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kar2410&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kar2410&theme=algolia)](https://git.io/streak-stats)
 
 
 
