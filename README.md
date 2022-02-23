@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My self**
 
-- 👨‍💻 All of my projects are available at [https://kar2410.github.io/Portfolio2022.github.io/](https://kar2410.github.io/Portfolio2022.github.io/)
+- 👨‍💻 All of my projects are available at [https://cutt.ly/aOdsCwl](https://kar2410.github.io/Portfolio2022.github.io/)
 
 - 💬 Ask me about anything, **I am happy to help**
 
