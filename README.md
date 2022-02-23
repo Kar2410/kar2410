@@ -27,9 +27,8 @@
 
 
     <a href="https://github.com/kar2410/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kartik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kar2410&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kar2410&theme=black-ice&hide_border=true&stroke=0000&bg_color=0D1117"/>
     </a>
-
 
 
   <a href="https://github.com/kar2410/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar2410&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
