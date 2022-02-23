@@ -35,7 +35,7 @@
 <a href="https://github.com/kar2410/github-readme-activity-graph"><img alt="Kartik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kar2410&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kar2410&show_icons=true&locale=en" alt="kar2410" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kar2410&" alt="kar2410" /></p>
 
