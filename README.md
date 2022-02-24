@@ -231,7 +231,7 @@
 
 
 
-<a href="https://github.com/kar2410/github-readme-activity-graph"><img alt="Kartik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kar2410&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/kar2410/github-readme-activity-graph"><img alt="Kartik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kar2410&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a
 
 
 
