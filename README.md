@@ -13,7 +13,7 @@
 
 - 💬 Ask me about anything, **I am happy to help**
 
-- 📫 How to reach me **kartik_ug@ee.nits.ac.in**
+- 📫 You can reach me at **kartik_ug@ee.nits.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
