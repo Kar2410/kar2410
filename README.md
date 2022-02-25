@@ -3,8 +3,9 @@
 <h3 align="center">I'm passionate Web developer from NIT SILCHAR</h3>
 <img align="right" alt="Coding" width="500" height="300" style="margin-top:'10px'" src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kar2410&label=Profile%20views&color=0e75b6&style=flat" alt="kar2410" width="180px" height="30px" /> </p>
 ![](https://komarev.com/ghpvc/?username=kar2410&label=PROFILE+VIEWS)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kar2410&label=Profile%20views&color=0e75b6&style=flat" alt="kar2410" width="180px" height="30px" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/kartikv67801698" target="blank"><img src="https://img.shields.io/twitter/follow/kartikv67801698?logo=twitter&style=for-the-badge" alt="kartikv67801698" /></a> </p>
 
