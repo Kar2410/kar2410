@@ -3,7 +3,7 @@
 <h3 align="center">I'm passionate Web developer from NIT SILCHAR</h3>
 <img align="right" alt="Coding" width="500" height="300" style="margin-top:'10px'" src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif">
 
-![](https://komarev.com/ghpvc/?username=kar2410&style=flat-square)
+![](https://komarev.com/ghpvc/?username=kar2410&style=flat-square  width="180px" height="30px")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kar2410&label=Profile%20views&color=0e75b6&style=flat" alt="kar2410" width="180px" height="30px" /> </p>
 
 
