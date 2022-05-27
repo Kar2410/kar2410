@@ -1,7 +1,6 @@
 [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif)](https://kar2410.io)
 <h1 align="center">👋 Good to have you here!!</h1>
 <h3 align="center">I'm passionate Web developer from NIT SILCHAR</h3>
-<!-- <img align="right" alt="Coding" width="500" height="300" style=" margin-top:'10px'" src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kar2410&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/kar2410" width="200px" height="30px" /> </p>
 
@@ -15,6 +14,9 @@
 - 💬 Ask me about anything, **I am happy to help**
 
 - 📫 You can reach me at **kartik_ug@ee.nits.ac.in**
+
+<img align="right" alt="Coding" width="500" height="300" style=" margin-top:'10px'" src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
