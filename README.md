@@ -20,7 +20,7 @@
 - 📫 You can reach me at **kartik_ug@ee.nits.ac.in**
 
 
-<p align ="right" ><img  width="500" height="300" style=" margin-top:'-100px'" src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif"> </p>
+<p align ="right" ><img  width="100" height="100" style=" margin-top:'-100px'" src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif"> </p>
 
 
 
