@@ -19,9 +19,12 @@
 
 - 📫 You can reach me at **kartik_ug@ee.nits.ac.in**
 
-<div  style=" margin-top:'-600px'" >
-<p align ="right" ><img  width="100" height="300"  src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif"> </p>
-</div>
+<!-- https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif -->
+
+<!-- <p align ="right" ><img  width="100" height="300"  src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif"> </p> -->
+<p align ="right" ><img  width="100" height="300"  src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif"> </p>
+
+
 
 
 
