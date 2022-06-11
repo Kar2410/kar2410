@@ -11,7 +11,7 @@
 
 <p align ="right" ><img  width="500" height="300"  src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif"> </p>
 
-<p align="left">
+
 - 🔭 I’m currently working on **My self**
 
 - 👨‍💻 All of my projects are available at [https://cutt.ly/aOdsCwl](https://kar2410.github.io/Portfolio2022.github.io/)
@@ -19,8 +19,7 @@
 - 💬 Ask me about anything, **I am happy to help**
 
 - 📫 You can reach me at **kartik_ug@ee.nits.ac.in**
- 
- </p>
+
 
 <!-- https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif -->
 
