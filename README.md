@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kartikv67801698" target="blank"><img src="https://img.shields.io/twitter/follow/kartikv67801698?logo=twitter&style=for-the-badge" alt="kartikv67801698" /></a> </p>
 
-<!-- <p align ="right" ><img  width="500" height="300"  src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif"> </p> -->
+
 <img style="margin-top: -40px" align="right" width="500" height="300"  src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif"> 
 
 
