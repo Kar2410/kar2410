@@ -1,6 +1,6 @@
 [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif)](https://kar2410.io)
 <h1 align="center">👋 Good to have you here!!</h1>
-<h3 align="center">I'm passionate Web developer from NIT SILCHAR</h3>
+<!-- <h3 align="center">I'm passionate Web developer from NIT SILCHAR</h3> -->
 
 
 
@@ -17,11 +17,9 @@
 
 - 🔭 I’m currently working on **My self**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://kar2410.github.io/Portfolio2022.github.io/)  
-
 - 💬 Ask me about anything, **I am happy to help**
 
-- 📫 You can reach me at **kartik_ug@ee.nits.ac.in**
+- 📫 You can reach me at **kartikverma378@gmail.com**
 
 
 
